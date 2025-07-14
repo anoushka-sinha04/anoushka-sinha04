@@ -1,5 +1,4 @@
 # Hi there! 👋 I'm Anoushka Sinha
-- 🎓 3rd-year B.Tech CSE student (AI & ML specialization)
-- 🔍 Exploring AI/ML, DevOps
-- 💻 Currently learning Data Structures & Algorithms, Git, and System Design
+- 🎓 4th-year B.Tech CSE student (AI & ML specialization)
+- 🔍 Exploring AI/ML, Software Development
 - 📫 Reach me at: anoushka1584@gmail.com , https://www.linkedin.com/in/anoushka-sinha1584/

@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Anoushka Sinha
-- 🎓 4th-year B.Tech CSE student (AI & ML specialization)
-- 🔍 Exploring AI/ML, Software Development
+- 🎓 B.Tech CSE graduate (AI & ML specialization)
+- Intern at 4CPlus , EX-Intern at NetProphets Cyberworks
+- 🔍 Exploring Data Analysis, AI/ML, Software Development
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anoushka-sinha1584) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anoushka1584@gmail.com) 
